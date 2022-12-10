@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSort", "QuickSort\QuickSort.csproj", "{AFCC8502-04DA-4A1B-BF35-45E0C2D85C80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFCC8502-04DA-4A1B-BF35-45E0C2D85C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCC8502-04DA-4A1B-BF35-45E0C2D85C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCC8502-04DA-4A1B-BF35-45E0C2D85C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCC8502-04DA-4A1B-BF35-45E0C2D85C80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C9CD9C9-F62A-44B3-AA2F-7D6D8696C967}
+	EndGlobalSection
+EndGlobal
